@@ -16,7 +16,7 @@ include ("blades/header.php");
 
     <div class="selected-products__list">
         <div class="selected-products__title">
-            <h1>Meu Carrinho</h1>
+            <h1>My Cart</h1>
         </div>
         <div class="selected-products__infos">
             <!-- CODIGO INJETADO POR JAVASCRIPT -->
@@ -29,46 +29,33 @@ include ("blades/header.php");
 
 <div class="login-modal">
     <h1 class="login-modal__title">Login</h1>
-    <form class="form" action="../controller/validaLogin.php" method="POST">
-        <p class="login-account__text">Não tem uma conta? <a href="#" class="login-account__link">Crie sua conta</a>,
-            leva menos de um minuto.</p>
+    <form class="form">
+        <p class="login-account__text">Don't have an account? <a href="#" class="login-account__link">Create your
+                account</a>, it takes less than a minute.</p>
 
         <div class="login-account">
             <div class="login-input">
-                <label class="login-input__label">E-mail</label>
-                <input type="email" class="login-input__input" name="emailCliente" />
+                <label class="login-input__label">Email</label>
+                <input type="email" class="login-input__input" />
             </div>
             <div class="login-input">
-                <label class="login-input__label">Senha</label>
-                <input type="password" class="login-input__input" name="passwordCliente" />
+                <label class="login-input__label">Password</label>
+                <input type="password" class="login-input__input" />
             </div>
         </div>
-
-        <?php if (isset($_GET['login']) && $_GET['login'] == 'erro') { ?>
-
-            <!-- mensagem de erro no form referente autenticação do usuário -->
-            <span>Usuário ou senha inválidos!</span> <br />
-
-        <?php } ?>
-
-        <?php if (isset($_GET['login']) && $_GET['login'] == 'erro2') { ?>
-
-            <!-- mensagem de erro no form referente autenticação do usuário -->
-            <span>Você precisa fazer login primeiro!</span> <br />
-
-        <?php } ?>
 
         <div class="remember">
             <div class="form-check">
                 <input type="checkbox" id="remember-me">
-                <label for="remember-me">Lembrar de mim</label>
+                <label for="remember-me">Remember me</label>
             </div>
 
-            <a href="#">Esqueceu sua senha?</a>
+            <a href="#">Forgot your password?</a>
         </div>
 
+
         <div class="doLogin-social-media">
-            <button type="submit" class="submit-button">Entrar</button>
+            <button type="submit" class="submit-button">Sign In</button>
             <p class="divisory"></p>
             <div class="social-medias">
                 <a href="#">
@@ -100,27 +87,28 @@ include ("blades/header.php");
 </div>
 
 <div class="create-account">
-    <h1 class="login-modal__title">Cadastrar</h1>
+    <h1 class="login-modal__title">Sign Up</h1>
     <form class="form">
         <div class="form-container__create">
             <div class="login-account">
                 <div class="login-input">
-                    <label class="login-input__label">Nome</label>
+                    <label class="login-input__label">Name</label>
                     <input type="text" class="login-input__input" />
                 </div>
                 <div class="login-input">
-                    <label class="login-input__label">E-mail</label>
+                    <label class="login-input__label">Email</label>
                     <input type="email" class="login-input__input" />
                 </div>
                 <div class="login-input">
-                    <label class="login-input__label">Senha</label>
+                    <label class="login-input__label">Password</label>
                     <input type="password" class="login-input__input" />
                 </div>
                 <div class="login-input">
-                    <label class="login-input__label">Repitir a senha</label>
+                    <label class="login-input__label">Repeat Password</label>
                     <input type="password" class="login-input__input" />
                 </div>
             </div>
+
 
             <div class="important-create">
                 <div class="important">
@@ -129,9 +117,9 @@ include ("blades/header.php");
                             d="M1 17.1747V10.8253C1 8.68932 2.136 6.71465 3.98133 5.63998L9.98133 2.14798C11.8467 1.06265 14.152 1.06265 16.0173 2.14798L22.0173 5.63998C23.864 6.71465 25 8.68932 25 10.8253V17.1747C25 19.3107 23.864 21.2853 22.0187 22.36L16.0187 25.852C14.1533 26.9373 11.848 26.9373 9.98267 25.852L3.98267 22.36C2.136 21.2853 1 19.3107 1 17.1747V17.1747Z"
                             stroke="#1D9BF0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     </svg>
-                    <p>Importante! <br> Preencha todos os dados</p>
+                    <p>Important! <br> Fill in all the data</p>
                 </div>
-                <button type="submit" class="submit-button" id="cadastrarUsuario">Cadastar</button>
+                <button type="submit" class="submit-button" id="cadastrarUsuario">Register</button>
             </div>
         </div>
 
@@ -141,11 +129,11 @@ include ("blades/header.php");
             </div>
             <div class="btt-dog amareloOuro"></div>
             <div class="btt-dog-h azul">
-                <p>Cadastrado com sucesso!</p>
-                <p>Bem-vindo ao <span>BichoChic</span></p>
+                <p>Successfully registered!</p>
+                <p>Welcome to <span>BichoChic</span></p>
             </div>
             <div class="comeback">
-                <a href="index.php">Voltar para a home</a>
+                <a href="index.php">Back to home</a>
             </div>
         </div>
     </form>
