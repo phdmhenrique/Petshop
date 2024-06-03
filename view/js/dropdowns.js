@@ -110,7 +110,7 @@ letras.forEach((letra) => {
           });
         } else {
           const li = document.createElement("li");
-          li.textContent = "Desculpe, não temos produtos com esta inicial";
+          li.textContent = "Sorry, we don't have any products starting with this letter.";
           listaProdutos.innerHTML = "";
           listaProdutos.appendChild(li);
         }

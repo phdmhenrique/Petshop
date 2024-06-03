@@ -1,32 +1,33 @@
 <div class="you-pet-need">
   <div class="title-about">
     <div class="dashed-title"></div>
-    <h1>Aqui você encontra tudo <span>o que seu pet precisa</span></h1>
-    <p>produtos de qualidade e preços acessíveis!</p>
+    <h1>Here you find everything <span>your pet needs</span></h1>
+    <p>Quality products at affordable prices!</p>
   </div>
+
 
   <!-- css - 0.7.1 -->
   <div class="favorite-products__cards amareloOuro">
     <div class="card">
-      <img src="imgs/produto-teste.png" class="img-produto" alt="" />
+      <img src="./images/produto-14.jpg" class="img-produto" alt="" />
       <div class="sobre-card">
         <div class="info-card">
           <div class="sobre-produto">
-            Talco meu Pet Genial Premium - Banho Seco
+            Stylish Pet Collar - Premium Leather
           </div>
           <div class="preco">
-            <p class="parcelas">Ou em 12x de R$3,40</p>
-            <p class="preco-avista">R$34,90</p>
+            <p class="parcelas">Or in 6x of $9.00</p>
+            <p class="preco-avista">$54.00</p>
           </div>
-          <div class="desconto">20% OFF</div>
+          <div class="desconto">25% OFF</div>
         </div>
 
         <div class="add" id="infoCarrinho">
           <div class="botoes">
             <button class="btn-carr-mais" id="addCarrinho">
-              Colocar no Carrinho
+              Add to Cart
             </button>
-            <a href="detalhes-produto.php" class="btn-carr-mais">Mais Detalhes</a>
+            <a href="detalhes-produto.php" class="btn-carr-mais">More Details</a>
           </div>
         </div>
       </div>
@@ -34,31 +35,31 @@
       <div class="adicionar-produto">
         <div class="escolha">
           <div class="nome-produto">
-            <h3>Talco meu Pet Genial Premium - Banho Seco</h3>
+            <h3>Stylish Pet Collar - Premium Leather</h3>
           </div>
 
           <div class="tamanho">
-            <h2>Tamanho</h2>
+            <h2>Size</h2>
             <form>
               <label>
-                <input type="radio" name="tamanho" value="100ML" />
-                <span class="btn">100ML</span>
+                <input type="radio" name="tamanho" value="Small" />
+                <span class="btn">Small</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="250ML" />
-                <span class="btn">250ML</span>
+                <input type="radio" name="tamanho" value="Medium" />
+                <span class="btn">Medium</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="500ML" />
-                <span class="btn">500ML</span>
+                <input type="radio" name="tamanho" value="Large" />
+                <span class="btn">Large</span>
               </label>
             </form>
           </div>
 
           <div class="quantidade">
-            <h2>Quantidade</h2>
+            <h2>Quantity</h2>
             <div class="quantity">
               <button class="btn-quantity" data-action="decrease">-</button>
               <input class="input-quantity" type="number" min="1" value="1" />
@@ -69,33 +70,33 @@
 
         <div class="confirmar-pedido">
           <div class="decide-pedido">
-            <button class="btn-pedido cancelar-compra">Cancelar</button>
-            <button class="btn-pedido confirmar-compra">Pronto</button>
+            <button class="btn-pedido cancelar-compra">Cancel</button>
+            <button class="btn-pedido confirmar-compra">Ready</button>
           </div>
         </div>
       </div>
     </div>
 
     <div class="card">
-      <img src="imgs/produto-teste.png" class="img-produto" alt="" />
+      <img src="./images/produto-15.jpeg" class="img-produto" alt="" />
       <div class="sobre-card">
         <div class="info-card">
           <div class="sobre-produto">
-            Talco meu Pet Genial Premium - Banho Seco
+            Cozy Pet Blanket - Soft Fleece
           </div>
           <div class="preco">
-            <p class="parcelas">Ou em 12x de R$3,40</p>
-            <p class="preco-avista">R$34,90</p>
+            <p class="parcelas">Or in 5x of $6.00</p>
+            <p class="preco-avista">$30.00</p>
           </div>
-          <div class="desconto">20% OFF</div>
+          <div class="desconto">30% OFF</div>
         </div>
 
         <div class="add" id="infoCarrinho">
           <div class="botoes">
             <button class="btn-carr-mais" id="addCarrinho">
-              Colocar no Carrinho
+              Add to Cart
             </button>
-            <a href="detalhes-produto.php" class="btn-carr-mais">Mais Detalhes</a>
+            <a href="detalhes-produto.php" class="btn-carr-mais">More Details</a>
           </div>
         </div>
       </div>
@@ -103,31 +104,31 @@
       <div class="adicionar-produto">
         <div class="escolha">
           <div class="nome-produto">
-            <h3>Talco meu Pet Genial Premium - Banho Seco</h3>
+            <h3>Cozy Pet Blanket - Soft Fleece</h3>
           </div>
 
           <div class="tamanho">
-            <h2>Tamanho</h2>
+            <h2>Size</h2>
             <form>
               <label>
-                <input type="radio" name="tamanho" value="100ML" />
-                <span class="btn">100ML</span>
+                <input type="radio" name="tamanho" value="Small" />
+                <span class="btn">Small</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="250ML" />
-                <span class="btn">250ML</span>
+                <input type="              <input type=" radio" name="tamanho" value="Medium" />
+                <span class="btn">Medium</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="500ML" />
-                <span class="btn">500ML</span>
+                <input type="radio" name="tamanho" value="Large" />
+                <span class="btn">Large</span>
               </label>
             </form>
           </div>
 
           <div class="quantidade">
-            <h2>Quantidade</h2>
+            <h2>Quantity</h2>
             <div class="quantity">
               <button class="btn-quantity" data-action="decrease">-</button>
               <input class="input-quantity" type="number" min="1" value="1" />
@@ -138,33 +139,33 @@
 
         <div class="confirmar-pedido">
           <div class="decide-pedido">
-            <button class="btn-pedido cancelar-compra">Cancelar</button>
-            <button class="btn-pedido confirmar-compra">Pronto</button>
+            <button class="btn-pedido cancelar-compra">Cancel</button>
+            <button class="btn-pedido confirmar-compra">Ready</button>
           </div>
         </div>
       </div>
     </div>
 
     <div class="card">
-      <img src="imgs/produto-teste.png" class="img-produto" alt="" />
+      <img src="./images/produto-16.jpg" class="img-produto" alt="" />
       <div class="sobre-card">
         <div class="info-card">
           <div class="sobre-produto">
-            Talco meu Pet Genial Premium - Banho Seco
+            Pet Grooming Kit - Professional Grade
           </div>
           <div class="preco">
-            <p class="parcelas">Ou em 12x de R$3,40</p>
-            <p class="preco-avista">R$34,90</p>
+            <p class="parcelas">Or in 12x of $8.30</p>
+            <p class="preco-avista">$99.60</p>
           </div>
-          <div class="desconto">20% OFF</div>
+          <div class="desconto">15% OFF</div>
         </div>
 
         <div class="add" id="infoCarrinho">
           <div class="botoes">
             <button class="btn-carr-mais" id="addCarrinho">
-              Colocar no Carrinho
+              Add to Cart
             </button>
-            <a href="detalhes-produto.php" class="btn-carr-mais">Mais Detalhes</a>
+            <a href="detalhes-produto.php" class="btn-carr-mais">More Details</a>
           </div>
         </div>
       </div>
@@ -172,31 +173,31 @@
       <div class="adicionar-produto">
         <div class="escolha">
           <div class="nome-produto">
-            <h3>Talco meu Pet Genial Premium - Banho Seco</h3>
+            <h3>Pet Grooming Kit - Professional Grade</h3>
           </div>
 
           <div class="tamanho">
-            <h2>Tamanho</h2>
+            <h2>Size</h2>
             <form>
               <label>
-                <input type="radio" name="tamanho" value="100ML" />
-                <span class="btn">100ML</span>
+                <input type="radio" name="tamanho" value="Basic" />
+                <span class="btn">Basic</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="250ML" />
-                <span class="btn">250ML</span>
+                <input type="radio" name="tamanho" value="Standard" />
+                <span class="btn">Standard</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="500ML" />
-                <span class="btn">500ML</span>
+                <input type="radio" name="tamanho" value="Premium" />
+                <span class="btn">Premium</span>
               </label>
             </form>
           </div>
 
           <div class="quantidade">
-            <h2>Quantidade</h2>
+            <h2>Quantity</h2>
             <div class="quantity">
               <button class="btn-quantity" data-action="decrease">-</button>
               <input class="input-quantity" type="number" min="1" value="1" />
@@ -207,23 +208,23 @@
 
         <div class="confirmar-pedido">
           <div class="decide-pedido">
-            <button class="btn-pedido cancelar-compra">Cancelar</button>
-            <button class="btn-pedido confirmar-compra">Pronto</button>
+            <button class="btn-pedido cancelar-compra">Cancel</button>
+            <button class="btn-pedido confirmar-compra">Ready</button>
           </div>
         </div>
       </div>
     </div>
 
     <div class="card">
-      <img src="imgs/produto-teste.png" class="img-produto" alt="" />
+      <img src="./images/produto-17.jpg" class="img-produto" alt="" />
       <div class="sobre-card">
         <div class="info-card">
           <div class="sobre-produto">
-            Talco meu Pet Genial Premium - Banho Seco
+            Pet Carrier Bag - Travel Friendly
           </div>
           <div class="preco">
-            <p class="parcelas">Ou em 12x de R$3,40</p>
-            <p class="preco-avista">R$34,90</p>
+            <p class="parcelas">Or in 6x of $15.00</p>
+            <p class="preco-avista">$90.00</p>
           </div>
           <div class="desconto">20% OFF</div>
         </div>
@@ -231,9 +232,9 @@
         <div class="add" id="infoCarrinho">
           <div class="botoes">
             <button class="btn-carr-mais" id="addCarrinho">
-              Colocar no Carrinho
+              Add to Cart
             </button>
-            <a href="detalhes-produto.php" class="btn-carr-mais">Mais Detalhes</a>
+            <a href="detalhes-produto.php" class="btn-carr-mais">More Details</a>
           </div>
         </div>
       </div>
@@ -241,31 +242,31 @@
       <div class="adicionar-produto">
         <div class="escolha">
           <div class="nome-produto">
-            <h3>Talco meu Pet Genial Premium - Banho Seco</h3>
+            <h3>Pet Carrier Bag - Travel Friendly</h3>
           </div>
 
           <div class="tamanho">
-            <h2>Tamanho</h2>
+            <h2>Size</h2>
             <form>
               <label>
-                <input type="radio" name="tamanho" value="100ML" />
-                <span class="btn">100ML</span>
+                <input type="radio" name="tamanho" value="Small" />
+                <span class="btn">Small</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="250ML" />
-                <span class="btn">250ML</span>
+                <input type="radio" name="tamanho" value="Medium" />
+                <span class="btn">Medium</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="500ML" />
-                <span class="btn">500ML</span>
+                <input type="radio" name="tamanho" value="Large" />
+                <span class="btn">Large</span>
               </label>
             </form>
           </div>
 
           <div class="quantidade">
-            <h2>Quantidade</h2>
+            <h2>Quantity</h2>
             <div class="quantity">
               <button class="btn-quantity" data-action="decrease">-</button>
               <input class="input-quantity" type="number" min="1" value="1" />
@@ -276,31 +277,33 @@
 
         <div class="confirmar-pedido">
           <div class="decide-pedido">
-            <button class="btn-pedido cancelar-compra">Cancelar</button>
-            <button class="btn-pedido confirmar-compra">Pronto</button>
+            <button class="btn-pedido cancelar-compra">Cancel</button>
+            <button class="btn-pedido confirmar-compra">Ready</button>
           </div>
         </div>
       </div>
     </div>
 
     <div class="card">
-      <img src="imgs/produto-teste.png" class="img-produto" alt="" />
+      <img src="./images/produto-18.jpg" class="img-produto" alt="" />
       <div class="sobre-card">
         <div class="info-card">
-          <div class="sobre-produto">Teste 2</div>
-          <div class="preco">
-            <p class="parcelas">Ou em 11x de R$3,40</p>
-            <p class="preco-avista">R$22,90</p>
+          <div class="sobre-produto">
+            Interactive Pet Toy - Ball Launcher
           </div>
-          <div class="desconto">20% OFF</div>
+          <div class="preco">
+            <p class="parcelas">Or in 3x of $16.00</p>
+            <p class="preco-avista">$48.00</p>
+          </div>
+          <div class="desconto">10% OFF</div>
         </div>
 
         <div class="add" id="infoCarrinho">
           <div class="botoes">
             <button class="btn-carr-mais" id="addCarrinho">
-              Colocar no Carrinho
+              Add to Cart
             </button>
-            <a href="detalhes-produto.php" class="btn-carr-mais">Mais Detalhes</a>
+            <a href="detalhes-produto.php" class="btn-carr-mais">More Details</a>
           </div>
         </div>
       </div>
@@ -308,31 +311,31 @@
       <div class="adicionar-produto">
         <div class="escolha">
           <div class="nome-produto">
-            <h3>Teste 2</h3>
+            <h3>Interactive Pet Toy - Ball Launcher</h3>
           </div>
 
           <div class="tamanho">
-            <h2>Tamanho</h2>
+            <h2>Size</h2>
             <form>
               <label>
-                <input type="radio" name="tamanho" value="100ML" />
-                <span class="btn">300ML</span>
+                <input type="radio" name="tamanho" value="Small" />
+                <span class="btn">Small</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="250ML" />
-                <span class="btn">450ML</span>
+                <input type="radio" name="tamanho" value="Medium" />
+                <span class="btn">Medium</span>
               </label>
 
               <label>
-                <input type="radio" name="tamanho" value="500ML" />
-                <span class="btn">600ML</span>
+                <input type="radio" name="tamanho" value="Large" />
+                <span class="btn">Large</span>
               </label>
             </form>
           </div>
 
           <div class="quantidade">
-            <h2>Quantidade</h2>
+            <h2>Quantity</h2>
             <div class="quantity">
               <button class="btn-quantity" data-action="decrease">-</button>
               <input class="input-quantity" type="number" min="1" value="1" />
@@ -343,8 +346,8 @@
 
         <div class="confirmar-pedido">
           <div class="decide-pedido">
-            <button class="btn-pedido cancelar-compra">Cancelar</button>
-            <button class="btn-pedido confirmar-compra">Pronto</button>
+            <button class="btn-pedido cancelar-compra">Cancel</button>
+            <button class="btn-pedido confirmar-compra">Ready</button>
           </div>
         </div>
       </div>

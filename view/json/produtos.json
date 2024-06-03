@@ -1,169 +1,132 @@
 {
   "A": [
-    { "nome": "Adestramento" },
-    { "nome": "Alimentação" },
-    { "nome": "Acessórios" }
+    { "nome": "Apparel" },
+    { "nome": "Antioxidants" },
+    { "nome": "Aquariums" }
   ],
   "B": [
-    { "nome": "Banho e tosa" },
-    { "nome": "Brinquedos" },
-    { "nome": "Bebedouros" }
+    { "nome": "Bathing" },
+    { "nome": "Bedding" },
+    { "nome": "Bowls" }
   ],
   "C": [
-    { "nome": "Caminhas" },
-    { "nome": "Coleiras" },
-    { "nome": "Comedouros" }
+    { "nome": "Collars" },
+    { "nome": "Crates" },
+    { "nome": "Cages" }
   ],
   "D": [
-    { "nome": "Dermatologia" },
     { "nome": "Dental" },
-    { "nome": "Delivery" }
+    { "nome": "Dishes" },
+    { "nome": "Diagnostics" }
   ],
   "E": [
-    { "nome": "Estética" },
-    { "nome": "Emergência" },
-    { "nome": "Escovas" }
+    { "nome": "Exercise" },
+    { "nome": "Enrichment" },
+    { "nome": "Ear Care" }
   ],
   "F": [
-    { "nome": "Farmácia" },
-    { "nome": "Fraldas" },
-    { "nome": "Focinheiras" }
+    { "nome": "Food" },
+    { "nome": "Flea Control" },
+    { "nome": "Fish Tanks" }
   ],
   "G": [
     { "nome": "Grooming" },
-    { "nome": "Guias" },
-    { "nome": "Guloseimas" }
+    { "nome": "Grain-Free" },
+    { "nome": "Games" }
   ],
   "H": [
-    { "nome": "Higiene" },
-    { "nome": "Hotel" },
-    { "nome": "Hospedagem" }
+    { "nome": "Harnesses" },
+    { "nome": "Houses" },
+    { "nome": "Hydration" }
   ],
   "I": [
-    { "nome": "Internação" },
-    { "nome": "Identificação" },
-    { "nome": "Insumos" }
+    { "nome": "Interactive Toys" },
+    { "nome": "ID Tags" },
+    { "nome": "Insect Repellents" }
   ],
   "J": [
-    { "nome": "Jardinagem" },
-    { "nome": "Jogos" },
-    { "nome": "Jaulas" }
+    { "nome": "Jumpers" },
+    { "nome": "Jackets" },
+    { "nome": "Joints" }
+  ],
+  "K": [
+    { "nome": "Kennels" },
+    { "nome": "Kittens" },
+    { "nome": "Kibble" }
   ],
   "L": [
-    { "nome": "Leite" },
-    { "nome": "Labirinto" },
-    { "nome": "Limpeza" }
+    { "nome": "Leashes" },
+    { "nome": "Litter" },
+    { "nome": "Lights" }
   ],
   "M": [
-    { "nome": "Medicina" },
-    { "nome": "Móveis" },
-    { "nome": "Moda pet" }
+    { "nome": "Medication" },
+    { "nome": "Mats" },
+    { "nome": "Muzzles" }
   ],
   "N": [
-    { "nome": "Nutrição" },
-    { "nome": "Ninhos" },
-    { "nome": "Naturais" }
+    { "nome": "Nail Clippers" },
+    { "nome": "Nests" },
+    { "nome": "Nutrients" }
   ],
   "O": [
-    { "nome": "Odontologia" },
-    { "nome": "Oncologia" },
-    { "nome": "Ossos" }
+    { "nome": "Outdoor Gear" },
+    { "nome": "Ointments" },
+    { "nome": "Organic" }
   ],
   "P": [
-    { "nome": "Passeios" },
-    { "nome": "Piscinas" },
-    { "nome": "Petiscos" }
+    { "nome": "Playpens" },
+    { "nome": "Pillows" },
+    { "nome": "Pens" }
   ],
   "Q": [
-    { "nome": "Quedas" },
-    { "nome": "Quebra-unhas" },
-    { "nome": "Quarentena" }
+    { "nome": "Quills" },
+    { "nome": "Quiet Time" },
+    { "nome": "Quarantine" }
   ],
   "R": [
-    { "nome": "Rações" },
-    { "nome": "Remédios" },
-    { "nome": "Roupas" }
+    { "nome": "Ramps" },
+    { "nome": "Reflective Gear" },
+    { "nome": "Raincoats" }
   ],
   "S": [
-    { "nome": "Saúde" },
-    { "nome": "Segurança" },
-    { "nome": "Shampoos" }
+    { "nome": "Supplements" },
+    { "nome": "Shelters" },
+    { "nome": "Sweaters" }
   ],
-    "T": [
-      {
-        "nome": "Tosa"
-      },
-      {
-        "nome": "Truque"
-      },
-      {
-        "nome": "Tapete higiênico"
-      }
-    ],
-    "U": [
-      {
-        "nome": "Unhas"
-      },
-      {
-        "nome": "Umidificador de ar"
-      },
-      {
-        "nome": "Unha de gato"
-      }
-    ],
-    "V": [
-      {
-        "nome": "Vermífugo"
-      },
-      {
-        "nome": "Vacina"
-      },
-      {
-        "nome": "Vasilha"
-      }
-    ],
-    "W": [
-      {
-        "nome": "Whiskas"
-      },
-      {
-        "nome": "Whey protein para cães"
-      },
-      {
-        "nome": "Wet food"
-      }
-    ],
-    "X": [
-      {
-        "nome": "Xampu"
-      },
-      {
-        "nome": "Xícara"
-      },
-      {
-        "nome": "Xerife"
-      }
-    ],
-    "Y": [
-      {
-        "nome": "Yakisoba para cães"
-      },
-      {
-        "nome": "Yakult para pets"
-      },
-      {
-        "nome": "Yoga com pets"
-      }
-    ],
-    "Z": [
-      {
-        "nome": "Zoo"
-      },
-      {
-        "nome": "Zangão"
-      },
-      {
-        "nome": "Zíper para roupinhas"
-      }
-    ]
-  }
+  "T": [
+    { "nome": "Toys" },
+    { "nome": "Treats" },
+    { "nome": "Travel" }
+  ],
+  "U": [
+    { "nome": "Umbrellas" },
+    { "nome": "Undercoats" },
+    { "nome": "Urinators" }
+  ],
+  "V": [
+    { "nome": "Vitamins" },
+    { "nome": "Vests" },
+    { "nome": "Vaccines" }
+  ],
+  "W": [
+    { "nome": "Waste Management" },
+    { "nome": "Water Fountains" },
+    { "nome": "Washable" }
+  ],
+  "X": [
+    { "nome": "X-Rays" },
+    { "nome": "Xylitol" },
+    { "nome": "Xylophones" }
+  ],
+  "Y": [
+    { "nome": "Yogurt Treats" },
+    { "nome": "Yams" },
+    { "nome": "Yard Clean-Up" }
+  ],
+  "Z": [
+    { "nome": "Zoomies" },
+    { "nome": "Zinc Supplements" },
+    { "nome": "Zip Ties" }
+  ]
+}

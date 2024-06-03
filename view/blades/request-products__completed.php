@@ -5,5 +5,5 @@
         </svg> 
         Ops!
     </p>
-    <p>Você ainda não tem nenhum pedido concluído.</p>
+    <p>You do not have any completed orders yet.</p>
 </div>

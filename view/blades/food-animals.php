@@ -1,8 +1,8 @@
 <section class="food-animals">
     <div class="title-about">
         <div class="dashed-title"></div>
-        <h1>Ofereça a melhor<span> alimentação para o seu pet</span></h1>
-        <p>com as marcas de rações mais renomadas do mercado!</p>
+        <h1>Offer the best <span>nutrition for your pet</span></h1>
+        <p>with the most renowned pet food brands in the market!</p>
     </div>
 
     <div class="food-animals__container">
