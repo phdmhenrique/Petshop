@@ -314,7 +314,7 @@
             </label>
 
             <label>
-              <input type=" radio" name="tamanho" value="Medium" />
+              <input type="radio" name="tamanho" value="Medium" />
               <span class="btn">Medium</span>
             </label>
 

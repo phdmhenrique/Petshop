@@ -291,9 +291,7 @@
                         <div class="sobre-card">
                             <div class="info-card">
                                 <div class="sobre-produto">
-                                    
-                                
-                                - Soft Fleece
+                                Cozy Pet Blanket - Soft Fleece
                                 </div>
                                 <div class="preco">
                                     <p class="parcelas">Or in 5x of $6.00</p>
@@ -327,7 +325,7 @@
                                         </label>
 
                                         <label>
-                                            <input type=" radio" name="tamanho" value="Medium" />
+                                            <input type="radio" name="tamanho" value="Medium" />
                                             <span class="btn">Medium</span>
                                         </label>
 
